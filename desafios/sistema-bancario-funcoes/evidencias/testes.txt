@@ -1,0 +1,20 @@
+test_contratos_posicionais_e_nomeados (test_sistema_bancario.SistemaBancarioTests.test_contratos_posicionais_e_nomeados) ... ok
+test_deposito_atualiza_saldo_e_historico (test_sistema_bancario.SistemaBancarioTests.test_deposito_atualiza_saldo_e_historico) ... ok
+test_deposito_rejeita_valores_invalidos_sem_mudar_estado (test_sistema_bancario.SistemaBancarioTests.test_deposito_rejeita_valores_invalidos_sem_mudar_estado) ... ok
+test_entrada_aceita_virgula_ponto_e_espacos (test_sistema_bancario.SistemaBancarioTests.test_entrada_aceita_virgula_ponto_e_espacos) ... ok
+test_entrada_rejeita_texto_milhar_e_precisao_excessiva (test_sistema_bancario.SistemaBancarioTests.test_entrada_rejeita_texto_milhar_e_precisao_excessiva) ... ok
+test_extrato_vazio (test_sistema_bancario.SistemaBancarioTests.test_extrato_vazio) ... ok
+test_fluxo_completo_preserva_ordem_e_centavos (test_sistema_bancario.SistemaBancarioTests.test_fluxo_completo_preserva_ordem_e_centavos) ... ok
+test_formatacao_brasileira (test_sistema_bancario.SistemaBancarioTests.test_formatacao_brasileira) ... ok
+test_saque_exatamente_no_limite (test_sistema_bancario.SistemaBancarioTests.test_saque_exatamente_no_limite) ... ok
+test_saque_pode_zerar_saldo (test_sistema_bancario.SistemaBancarioTests.test_saque_pode_zerar_saldo) ... ok
+test_saque_rejeita_saldo_insuficiente (test_sistema_bancario.SistemaBancarioTests.test_saque_rejeita_saldo_insuficiente) ... ok
+test_saque_rejeita_um_centavo_acima_do_limite (test_sistema_bancario.SistemaBancarioTests.test_saque_rejeita_um_centavo_acima_do_limite) ... ok
+test_saque_rejeita_zero_negativo_e_nao_finito (test_sistema_bancario.SistemaBancarioTests.test_saque_rejeita_zero_negativo_e_nao_finito) ... ok
+test_terceiro_saque_permitido_e_quarto_bloqueado (test_sistema_bancario.SistemaBancarioTests.test_terceiro_saque_permitido_e_quarto_bloqueado) ... ok
+test_terminal_se_recupera_de_entrada_invalida (test_sistema_bancario.SistemaBancarioTests.test_terminal_se_recupera_de_entrada_invalida) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.088s
+
+OK

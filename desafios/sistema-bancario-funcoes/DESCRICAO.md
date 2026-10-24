@@ -1,0 +1,1 @@
+Sistema bancário em Python organizado em funções reutilizáveis para depósito, saque e extrato. Demonstra parâmetros posicionais e nomeados, validação de entradas, tratamento de exceções, cálculos com Decimal e testes automatizados. Projeto educacional baseado no desafio da DIO.

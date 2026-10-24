@@ -1,0 +1,44 @@
+Entradas fornecidas, uma por linha:
+d
+100,50
+s
+25,25
+e
+q
+
+Saída do programa:
+Simulador educacional. Saldo e histórico são reiniciados ao sair.
+Até 3 saques por execução, de até R$ 500,00 cada.
+
+Sistema bancário
+[d] Depositar
+[s] Sacar
+[e] Exibir extrato
+[q] Sair
+Escolha uma opção: Valor (ex.: 100,50, sem separador de milhar): Depósito realizado.
+
+Sistema bancário
+[d] Depositar
+[s] Sacar
+[e] Exibir extrato
+[q] Sair
+Escolha uma opção: Valor (ex.: 100,50, sem separador de milhar): Saque realizado.
+
+Sistema bancário
+[d] Depositar
+[s] Sacar
+[e] Exibir extrato
+[q] Sair
+Escolha uma opção: 
+EXTRATO
+Depósito: R$ 100,50
+Saque: R$ 25,25
+Saldo atual: R$ 75,25
+
+
+Sistema bancário
+[d] Depositar
+[s] Sacar
+[e] Exibir extrato
+[q] Sair
+Escolha uma opção: Sessão encerrada.
